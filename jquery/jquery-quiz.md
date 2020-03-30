@@ -9,9 +9,9 @@ jQuery Assessment
      alert('you clicked the button!');
  });`
 
-- Only the second one will work; jQuery does not have a function called .on. <<<<---Correct
+- Only the second one will work; jQuery does not have a function called .on. 
 - The second snippet will not function.
-- Nothing - .click(function) is shorter way to write .on('click', function)
+- Nothing - .click(function) is shorter way to write .on('click', function) <<<<---Correct
 - The first snippet will execute for every button on the page, the second will only apply to the first button
 
 #### Q2. What does the following line of code do?
