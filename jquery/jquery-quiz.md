@@ -25,7 +25,7 @@ jQuery Assessment
 #### Q3. Give the following HTML, how could we use one line to hide or show the button?
 `<button class="btn btn-primary" type="submit">Continue to checkout</button>`
 
-- $('.btn-primary').toggle(); ???? // toggle(true); & toggle(false);
+- $('.btn-primary').toggle(); // This one should be correct (https://api.jquery.com/toggle/) ???? // toggle(true); & toggle(false);
 - $('.btn-primary').showHide();
 - $('.btn-primary').not(':visible').show();
 - $('.btn-primary').css({ display: 'block'}); <<<<---Correct // ({ display: 'none'});
