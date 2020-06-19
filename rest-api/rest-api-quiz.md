@@ -80,7 +80,7 @@ REST API Assessment
 - an SSO competitor for OAuth 2.0
 
 #### Q14. What is one benefit of GraphQl over REST approaches?
-- flexible querying/responses
+- flexible querying/responses >>>>>>>>> CORRECT
 - more stable APIs
 - compatible with more gateways
 - more secure by default
